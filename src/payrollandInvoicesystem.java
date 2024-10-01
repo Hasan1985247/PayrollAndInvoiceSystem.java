@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class payrollandInvoicesystem {
+public class PayrollAndInvoiceSystem {
 
 
 
